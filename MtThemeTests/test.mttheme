@@ -1,0 +1,9 @@
+#
+# Comment
+#
+
+NSClipView[identifier="chosen"].NSTextView
+    backgroundColor=#404040
+
+NSTextView[isEditable=NO]
+    isEditable=YES
